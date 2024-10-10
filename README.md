@@ -186,9 +186,7 @@ resource "aws_iam_policy" "ec2_launch_policy" {
 
 ## **Integrating Security into CI/CD Pipelines**
 
-Automating
-
- security checks in your CI/CD pipeline ensures that security isn’t an afterthought. Integrating security policy validation and compliance checks within your build process is essential.
+Automating security checks in your CI/CD pipeline ensures that security isn’t an afterthought. Integrating security policy validation and compliance checks within your build process is essential.
 
 **Example GitHub Actions Workflow**:
 ```yaml
