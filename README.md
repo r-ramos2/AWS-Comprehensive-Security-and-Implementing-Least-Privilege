@@ -15,7 +15,7 @@
 12. [Compliance and Organizational Guardrails](#compliance-and-organizational-guardrails)
 13. [Security Incident Response with Automation](#security-incident-response-with-automation)
 14. [Conclusion and GitHub Repository](#conclusion-and-github-repository)
-15. [References](#references)
+15. [Resources](#resources)
 
 ---
 
@@ -277,7 +277,7 @@ This guide outlines a robust approach to securing AWS environments, from fine-tu
 
 ---
 
-## **References**
+## **Resources**
 
 1. AWS Identity and Access Management (IAM): [AWS IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 2. AWS CloudTrail: [AWS CloudTrail Documentation](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
